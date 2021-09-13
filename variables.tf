@@ -6,12 +6,12 @@ variable "region" {
 variable "instance_count" {
   description = "Node Sayisi"
   type        = number
-  default     = 2
+  default     = 4
 }
 
 variable "ami" {
   description = "AMI"
-  default = "ami-0277b52859bac6f4b"
+  default = "ami-00dfe2c7ce89a450b"
 }
 
 variable "instance_type" {
