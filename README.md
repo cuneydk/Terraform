@@ -1,10 +1,11 @@
 # Terraform
+
   Önkoşullar
   1. Install Terraform
   2. Install AWS CLI v2
   3. Create AWS Account
   4. Create AWS Access Key
-------------------------------------------
+--------------------------------------
 1.Terraform Kurulumu
 
 Sisteminizin güncel olduğundan ve gnupg, yazılım-özellikleri-ortak ve kıvrılma paketlerinin kurulu olduğundan
